@@ -95,13 +95,8 @@ project-folder/
 
 ---
 
-## 📜 License
-MIT
-
----
-
 ## 👤 Author
-Developer: Your Name
+Developer: Arun Raj
 
 
 ## Installation
@@ -112,25 +107,3 @@ Developer: Your Name
 - Azure IoT Hub & DPS
 - Python 3.12+
 - pip
-
-### Steps
-1. Clone repository:
-   ```bash
-   git clone <repo-url>
-   cd <project>
-   ```
-2. Create virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/Scripts/activate  # Windows
-   ```
-3. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Update `config.json` with IoT Hub + DPS keys.
-5. Flash ESP32 firmware + code using Arduino or ESP-IDF.
-6. Run Streamlit dashboard:
-   ```bash
-   streamlit run app1.py
-   ```
