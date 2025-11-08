@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # --- Configuration ---
-CONNECTION_STRING = "Endpoint=sb://ihsuprodpnres011dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=6ctipeK26laX1vp2RHXrpwnaccSjGkd06AIoTBjVbUo=;EntityPath=iothub-ehub-ble-scanne-55883412-d2d85e52dd"
+CONNECTION_STRING = "Your AzurID"
 CONSUMER_GROUP = "$Default"
 
 # Initialize session state
