@@ -25,7 +25,7 @@ This project demonstrates how an ESP32 device collects **current, voltage, and a
 
 ## 🛠️ Hardware Requirements
 - ESP32 development board
-- Current sensor (e.g., ACS712)
+- Current sensor (ACS712)
 - Voltage sensor module
 - Accelerometer (MPU6050 / ADXL345 or similar)
 - Power supply & wiring
